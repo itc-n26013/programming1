@@ -4,4 +4,4 @@ for i in number:
     if i > 10:
         break
     x +=i
-    print(x)
+print(x)
