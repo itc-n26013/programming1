@@ -8,7 +8,7 @@
 - [第５章](#第５章)
 
 <!-- /TOC -->
-<!-- py add_toc.py --inplace README.md -->
+<!-- py add_toc.py --inplace README.md 目次を追加したらこの文をターミナルで実行するよ！-->
 
 # Programming I  
 ProgrammingIの成果物提出のリポジトリです。
@@ -44,4 +44,5 @@ ProgrammingIの成果物提出のリポジトリです。
 - 4.9 コーディングスタイル([問題2](char04/q4_9_2.py))
 ## 第5章
 - 5.1 リストのメソッド([問題1](chap05/q5_1_2.py)、[問題2](chap05/q5_1_3.py))
+- 5.2 リスト内包表記 ([問題1](chap05/q5_2_1.py)、[問題2](chap05/q5_2_2.py)、[問題3](chap05/q5_2_3.py))
 
